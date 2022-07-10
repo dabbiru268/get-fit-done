@@ -5,7 +5,7 @@
 }
 
 header{
-    background-image:linear-gradient(rgba(0,0,0,0.5),#009688), url(153-1539563_exercise-fitness-workout-aerobics-ss-exercises-for-health.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.5),#009688), url(home_bg.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
